@@ -1,16 +1,13 @@
-## Hi there 👋
+## 👋 Bem vindo ao meu perfil do Github!
 
-<!--
-**gabriellima-4/gabriellima-4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me chamo Gabriel e sou estudante de Ciências da Computação no CEUB.
+Aqui estarão repositórios tanto de trabalhos para a faculdade como também códigos e projetos pessoais.
 
-Here are some ideas to get you started:
+![gabriellima-4's Stats](https://github-readme-stats.vercel.app/api?username=gabriellima-4&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true)
+<br>
+![gabriellima-4's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellima-4&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Meios de Contato
+<div>
+  <a href="https://instagram.com/lima_0g" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div>
