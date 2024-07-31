@@ -1,6 +1,7 @@
 ## 👋 Bem vindo ao meu perfil do Github!
 
 Me chamo Gabriel e sou estudante de Ciências da Computação no CEUB.
+<br>
 Aqui estarão repositórios tanto de trabalhos para a faculdade como também códigos e projetos pessoais.
 
 ![gabriellima-4's Stats](https://github-readme-stats.vercel.app/api?username=gabriellima-4&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true)
