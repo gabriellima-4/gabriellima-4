@@ -14,4 +14,5 @@ Não deixe de conferir o artigo sobre NoSQL abaixo na seção dos repositórios.
 ## Meios de Contato
 <div>
   <a href="https://instagram.com/lima_0g" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gabriel-lima-b39b78322/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
