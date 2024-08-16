@@ -11,6 +11,11 @@ Não deixe de conferir o artigo sobre NoSQL abaixo na seção dos repositórios.
 <br>
 ![gabriellima-4's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellima-4&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)
 
+## Linguagens de Preferência
+<div>
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
+</div>
+
 ## Meios de Contato
 <div>
   <a href="https://instagram.com/lima_0g" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
