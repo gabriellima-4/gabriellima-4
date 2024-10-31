@@ -10,13 +10,12 @@ Não deixe de conferir o artigo sobre NoSQL abaixo na seção dos repositórios.
 ![gabriellima-4's Stats](https://github-readme-stats.vercel.app/api?username=gabriellima-4&theme=great-gatsby&show_icons=true&hide_border=true&count_private=true)
 ![gabriellima-4's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellima-4&theme=great-gatsby&show_icons=true&hide_border=true&layout=compact)
 
-## Linguagens de Preferência
+## Linguagens e Tecnologias de Preferência
 <div>
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src ="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> (futuramente)
+  <img align="center" width=43 height=43 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img align="center" width=43 height=43 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" />
+  <img align="center" width=43 height=43 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+
 </div>
 
 ## Meios de Contato
