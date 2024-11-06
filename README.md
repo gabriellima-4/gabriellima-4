@@ -7,8 +7,8 @@ Aqui estarão repositórios tanto de trabalhos para a faculdade como também có
 
 Não deixe de conferir o artigo sobre NoSQL abaixo na seção dos repositórios.
 
-![gabriellima-4's Stats](https://github-readme-stats.vercel.app/api?username=gabriellima-4&theme=great-gatsby&show_icons=true&hide_border=true&count_private=true)
-![gabriellima-4's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellima-4&theme=great-gatsby&show_icons=true&hide_border=true&layout=compact)
+![gabriellima-4's Stats](https://github-readme-stats.vercel.app/api?username=gabriellima-4&theme=gotham&show_icons=true&hide_border=true&count_private=true)
+![gabriellima-4's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellima-4&theme=gotham&show_icons=true&hide_border=true&layout=compact)
 
 ## Linguagens e Tecnologias de Preferência
 <div>
