@@ -7,14 +7,16 @@ Aqui estarão repositórios tanto de trabalhos para a faculdade como também có
 
 Não deixe de conferir o artigo sobre NoSQL abaixo na seção dos repositórios.
 
-![gabriellima-4's Stats](https://github-readme-stats.vercel.app/api?username=gabriellima-4&theme=monokai&show_icons=true&hide_border=true&count_private=true)
-![gabriellima-4's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellima-4&theme=monokai&show_icons=true&hide_border=true&layout=compact)
+![gabriellima-4's Stats](https://github-readme-stats.vercel.app/api?username=gabriellima-4&theme=nord&show_icons=true&hide_border=true&count_private=true)
+![gabriellima-4's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellima-4&theme=nord&show_icons=true&hide_border=true&layout=compact)
 
-## Linguagens e Tecnologias de Preferência
+## Linguagens de Programação e Outras Tecnologias de Preferência
 <div>
   <img align="center" width=43 height=43 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img align="center" width=43 height=43 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" />
   <img align="center" width=43 height=43 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img align="center" width=43 height=43 src="https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000" />
+  <img align="center" width=43 height=43 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
 
 </div>
 
