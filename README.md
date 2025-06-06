@@ -62,7 +62,8 @@ Não deixe de conferir o [artigo sobre NoSQL](https://github.com/gabriellima-4/B
 
 ### 💥 Projetos em Andamento
 - <img src="https://img.icons8.com/?size=100&id=59&format=png&color=FFFFFF" width="15"> **[DashBoard-BH27](https://github.com/gabriellima-4/Dashboard-BH27)** : Projeto de PowerBI mostrando estatísticas do jogador do Flamengo, Bruno Henrique.
-- <img src="https://img.icons8.com/?size=100&id=r8uJkvcILBht&format=png&color=FFFFFF" width=15> **[Wishlist-React](https://github.com/gabriellima-4/Wishlist-React)** : Aplicação de lista de desejos pessoal.
+- <img src="https://img.icons8.com/?size=100&id=r8uJkvcILBht&format=png&color=FFFFFF" width=15> **[Wishlist-React](https://github.com/gabriellima-4/Wishlist-React)** : Aplicação web de lista de desejos pessoal.
+- <img src="https://img.icons8.com/?size=100&id=i6fZC6wuprSu&format=png&color=FFFFFF" width=15> **[Kubo](https://github.com/Kubo-Architecture/kubo-frontend)** : Aplicação Web que serve como banco de dados de arquitetura, voltado para o meio acadêmico.
 
 <h2></h2>
 
