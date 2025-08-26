@@ -57,6 +57,13 @@ Não deixe de conferir o [artigo sobre NoSQL](https://github.com/gabriellima-4/B
 ![gabriellima-4's Stats](https://github-readme-stats.vercel.app/api?username=gabriellima-4&theme=nord&show_icons=true&hide_border=true&count_private=true)
 ![gabriellima-4's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellima-4&theme=nord&show_icons=true&hide_border=true&layout=compact)
 
+<h2></h2>
+
+### 🧐 O que estou estudando/aprendendo no momento?
+- **Arquitetura de Redes - Udemy**: Esse curso é de caráter introdutório, porém de rico conteúdo, que fala sobre o que são as redes dentro do mundo da tecnologia. As aulas vem me ajudando em disciplinas na faculdade e o conhecimento transmitido é valioso.
+- **SoftSkills**: Não é só de conhecimentos técnicos que um trabalhador é feito, portanto investi parte do meu tempo nesses meses de Julho e Agosto (2025) para que eu pudesse desenvolver minhas softskills. Concluí cursos relacionados à Comunicação e à Feedback, por exemplo, que serão ferramentas úteis no momento em que eu estiver no mercado de trabalho.
+- **Tailwind CSS**: Quero começar a aprender essa ferramenta pois ela será necessária em projetos futuros, dentro e fora da faculdade.
+
 
 <h2></h2>
 
@@ -69,6 +76,6 @@ Não deixe de conferir o [artigo sobre NoSQL](https://github.com/gabriellima-4/B
 
 ### 📮 Meios de Contato
 <div>
-  <a href="https://instagram.com/lima_0g" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gabriel-de-medeiros-lima" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://instagram.com/lima_0g" target="_blank"><img width="53" height="53" align="center" src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000"></a>
+  <a href="https://www.linkedin.com/in/gabriel-de-medeiros-lima" target="_blank"><img width="43" height="43" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"></a>
 </div>
