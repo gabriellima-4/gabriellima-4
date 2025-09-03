@@ -60,17 +60,17 @@ Não deixe de conferir o [artigo sobre NoSQL](https://github.com/gabriellima-4/B
 <h2></h2>
 
 ### 🧐 O que estou estudando/aprendendo no momento?
-- **Arquitetura de Redes - Udemy**: Esse curso é de caráter introdutório, porém de rico conteúdo, que fala sobre o que são as redes dentro do mundo da tecnologia. As aulas vem me ajudando em disciplinas na faculdade e o conhecimento transmitido é valioso.
-- **SoftSkills**: Não é só de conhecimentos técnicos que um trabalhador é feito, portanto investi parte do meu tempo nesses meses de Julho e Agosto (2025) para que eu pudesse desenvolver minhas softskills. Concluí cursos relacionados à Comunicação e à Feedback, por exemplo, que serão ferramentas úteis no momento em que eu estiver no mercado de trabalho.
-- **Tailwind CSS**: Quero começar a aprender essa ferramenta pois ela será necessária em projetos futuros, dentro e fora da faculdade.
+- **Arquitetura de Redes - Udemy**: Esse curso é de caráter introdutório, porém de rico conteúdo, que fala sobre o que são as redes dentro do mundo da tecnologia. As aulas desse curso online vem me ajudando em disciplinas na faculdade e o conhecimento transmitido é valioso.
+- **SoftSkills**: Não é só de conhecimentos técnicos que um trabalhador é feito, portanto investi parte do meu tempo nesses meses de Julho e Agosto (2025) para que eu pudesse desenvolver minhas softskills. Concluí cursos relacionados à Comunicação e à Feedback, por exemplo, que serão conhecimentos úteis no momento em que eu estiver no mercado de trabalho.
+- **Tailwind CSS**: Irei começar a aprender essa ferramenta pois ela será necessária em projetos futuros, dentro e fora da faculdade.
 
 
 <h2></h2>
 
 ### 💥 Projetos em Andamento
 - <img src="https://img.icons8.com/?size=100&id=59&format=png&color=FFFFFF" width="15"> **[DashBoard-BH27](https://github.com/gabriellima-4/Dashboard-BH27)** : Projeto de PowerBI mostrando estatísticas do jogador do Flamengo, Bruno Henrique.
-- <img src="https://img.icons8.com/?size=100&id=r8uJkvcILBht&format=png&color=FFFFFF" width=15> **[Wishlist-React](https://github.com/gabriellima-4/Wishlist-React)** : Aplicação web de lista de desejos pessoal.
-- <img src="https://img.icons8.com/?size=100&id=i6fZC6wuprSu&format=png&color=FFFFFF" width=15> **[Kubo](https://github.com/Kubo-Architecture/kubo-frontend)** : Aplicação Web que serve como banco de dados de arquitetura, voltado para o meio acadêmico.
+- <img src="https://img.icons8.com/?size=100&id=Gv7SjgKu0lV7&format=png&color=FFFFFF" width="15"> **[Meu Novo Portfólio](https://github.com/gabriellima-4/novo-portfolio)** : Há um bom tempo venho querendo mudar o meu web-portfolio, portanto farei uma nova versão que estará nesse repositório.
+- **[Site Institucional Vem Comigo](https://github.com/Vem-Comigo)** : Farei parte desse projeto na disciplina de "Projeto Integrador 2", na faculdade. O 'Vem Comigo' é um projeto educacional já existente na vida real, mas a solução que o nosso grupo busca é conceber uma plataforma de divulgação do projeto.
 
 <h2></h2>
 
