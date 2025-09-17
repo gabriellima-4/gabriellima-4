@@ -61,6 +61,7 @@ Não deixe de conferir o [artigo sobre NoSQL](https://github.com/gabriellima-4/B
 
 ### 🧐 O que estou estudando/aprendendo no momento?
 - **Arquitetura de Redes - Udemy**: Esse curso é de caráter introdutório, porém de rico conteúdo, que fala sobre o que são as redes dentro do mundo da tecnologia. As aulas desse curso online vem me ajudando em disciplinas na faculdade e o conhecimento transmitido é valioso.
+- **Power BI Impressionador - Hashtag Treinamentos**: Esse curso cobre desde conceitos básicos até de nível avançado sobre essa ferramenta que é muito utilizada no mercado de trabalho, e é mais voltada para a área de Análise de Dados.
 - **SoftSkills**: Não é só de conhecimentos técnicos que um trabalhador é feito, portanto investi parte do meu tempo nesses meses de Julho e Agosto (2025) para que eu pudesse desenvolver minhas softskills. Concluí cursos relacionados à Comunicação e à Feedback, por exemplo, que serão conhecimentos úteis no momento em que eu estiver no mercado de trabalho.
 - **Tailwind CSS**: Irei começar a aprender essa ferramenta pois ela será necessária em projetos futuros, dentro e fora da faculdade.
 
