@@ -18,6 +18,7 @@ Não deixe de conferir o [artigo sobre NoSQL](https://github.com/gabriellima-4/B
   <img align="center" width=43 height=43 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   <img align="center" width=43 height=43 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
   <img align="center" width=43 height=43 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactrouter/reactrouter-original-wordmark.svg" />
+  <img align="center" width=43 height=43 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
 </div>
 
 <br/>
@@ -58,12 +59,6 @@ Não deixe de conferir o [artigo sobre NoSQL](https://github.com/gabriellima-4/B
 ![gabriellima-4's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellima-4&theme=nord&show_icons=true&hide_border=true&layout=compact)
 
 <h2></h2>
-
-### 🧐 O que estou estudando/aprendendo no momento?
-- **Arquitetura de Redes - Udemy**: Esse curso é de caráter introdutório, porém de rico conteúdo, que fala sobre o que são as redes dentro do mundo da tecnologia. As aulas desse curso online vem me ajudando em disciplinas na faculdade e o conhecimento transmitido é valioso.
-- **Power BI Impressionador - Hashtag Treinamentos**: Esse curso cobre desde conceitos básicos até de nível avançado sobre essa ferramenta que é muito utilizada no mercado de trabalho, e é mais voltada para a área de Análise de Dados.
-- **SoftSkills**: Não é só de conhecimentos técnicos que um trabalhador é feito, portanto investi parte do meu tempo nesses meses de Julho e Agosto (2025) para que eu pudesse desenvolver minhas softskills. Concluí cursos relacionados à Comunicação e à Feedback, por exemplo, que serão conhecimentos úteis no momento em que eu estiver no mercado de trabalho.
-- **Tailwind CSS**: Irei começar a aprender essa ferramenta pois ela será necessária em projetos futuros, dentro e fora da faculdade.
 
 
 <h2></h2>
