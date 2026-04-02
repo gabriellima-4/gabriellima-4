@@ -59,8 +59,9 @@ Não deixe de conferir o [artigo sobre NoSQL](https://github.com/gabriellima-4/B
 
 ### 📊 Estatísticas do GitHub
 
-![gabriellima-4's Stats](https://github-readme-stats.vercel.app/api?username=gabriellima-4&theme=nord&show_icons=true&hide_border=true&count_private=true)
-![gabriellima-4's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellima-4&theme=nord&show_icons=true&hide_border=true&layout=compact)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=gabriellima-4&rank_icon=github&show_icons=true&include_all_commits=true&theme=nord)](https://github-stats-extended.vercel.app/api?username=gabriellima-4&rank_icon=github&show_icons=true&include_all_commits=true&theme=nord)
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=gabriellima-4&layout=compact&hide_progress=true&langs_count=5&theme=nord)](https://github-stats-extended.vercel.app/api/top-langs?username=gabriellima-4&layout=compact&hide_progress=true&langs_count=5&theme=nord)
 
 <h2></h2>
 
