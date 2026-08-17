@@ -1,6 +1,6 @@
 ## 👋 Bem vindo ao meu perfil do Github!
 
-Me chamo Gabriel e sou estudante de Ciências da Computação (7° Semestre) no CEUB.
+Me chamo Gabriel e sou graduando de Ciência da Computação (8° Semestre) no CEUB.
 <br/>
 Aqui estarão repositórios tanto de trabalhos para a faculdade como também códigos de projetos pessoais.
 <br/>
